@@ -12,4 +12,5 @@
 
 Erstellung eines neues Features...1
 
+Test eines konflikts (master, zentral)
 

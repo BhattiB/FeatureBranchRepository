@@ -11,6 +11,7 @@ namespace ProjectXY
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Bye Worlf!");
 		}
 	}
 }

@@ -15,4 +15,7 @@ Erstellung eines neues Features...1
 		Test eines konflikts (new-feature, lokal)
 		Test eines konflikts (master, zentral)
 
+# new feature V.2
+
+Analyse des features
 
